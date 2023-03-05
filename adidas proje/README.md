@@ -1,2 +1,1 @@
-# ders1
-# Adidas
+Adidas css html satış projem
